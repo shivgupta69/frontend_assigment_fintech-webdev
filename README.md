@@ -18,24 +18,25 @@ A modern, production-ready Flask application for user onboarding with OTP verifi
 
 1. Open a terminal or command prompt.
 2. Go to the project folder:
-   ```bash
+   
   python3 -m venv venv
   source venv/bin/activate
+  
    cd project_fin/fincelerate
-   ```
-3. Install the required packages:
+
+4. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
-4. Start the app:
+5. Start the app:
    ```bash
    python app.py
    ```
-5. Open your browser and go to:
+6. Open your browser and go to:
    ```text
    http://localhost:8000
    ```
-6. For local OTP testing, the 6-digit code is printed in the terminal/console when you submit the signup form.
+7. For local OTP testing, the 6-digit code is printed in the terminal/console when you submit the signup form.
 
 ### Notes for non-technical users
 
