@@ -21,7 +21,6 @@ A modern, production-ready Flask application for user onboarding with OTP verifi
    ```bash
   python3 -m venv venv
   source venv/bin/activate
-
    cd project_fin/fincelerate
    ```
 3. Install the required packages:
